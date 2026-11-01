@@ -173,7 +173,4 @@ streamlit run app.py
 
 ---
 
-## 👤 Author
-- **Name:** [Your Name]
-- **GitHub:** [@your-github-handle](https://github.com/[your-username])
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/[your-profile])
+
